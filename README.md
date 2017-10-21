@@ -12,4 +12,4 @@ The app will store every burger in a database, whether devoured or not.This app 
 
 ## Demo
 
-The demo of the burger eating application can be found [here](https://agile-plains-67562.herokuapp.com/).
+The demo of the burger eating application can be found [here](https://shielded-meadow-32688.herokuapp.com/).
